@@ -1,1 +1,9 @@
-388833
+body {
+    background: #4f5467;
+    font-family: Rubik,sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+    color: #fff;
+    font-weight: 300;
+}
+
